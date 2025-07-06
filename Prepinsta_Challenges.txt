@@ -1,0 +1,67 @@
+✅ Basic Number Checks
+
+•Positive or Negative number
+
+•Even or Odd number
+
+•Leap year or not
+
+•Perfect Square
+
+✅ Basic Math Calculations
+
+•Sum of First N Natural numbers
+
+•Sum of N Natural numbers (same as above unless specified differently)
+
+•Sum of numbers in a given range
+
+•Power of a number
+
+•Factorial of a number
+
+✅ Comparisons
+
+•Greatest of two numbers
+
+•Greatest of the three numbers
+
+✅ Prime Numbers
+
+•Prime number
+
+•Prime number within a given range
+
+•Finding Prime Factors of a number
+
+✅ Digit/Number Operations
+
+•Sum of digits of a number
+
+•Reverse of a number
+
+•Palindrome number
+
+•Armstrong number
+
+•Armstrong number in a given range
+
+✅ Series
+
+•Fibonacci Series up to nth term
+
+•Find the Nth term of the Fibonacci Series
+
+✅ Factor-based Challenges
+
+•Factor of a number
+
+•Strong number
+
+•Perfect number
+
+•Automorphic number
+
+•Harshad number
+
+ 
