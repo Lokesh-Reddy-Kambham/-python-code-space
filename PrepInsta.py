@@ -238,17 +238,17 @@
 
 '''23.2 AutoMorphic Number'''
 
-# num = int(input("Enter Number:"))
-# square = num * num
-# temp = num
-# while temp > 0:
-#     if square % 10 != temp % 10:
-#         print("Non AutoMorphic")
-#         break
-#     square //= 10
-#     temp //= 10
-# else:
-#     print("AutoMorphic")
+num = int(input("Enter Number:"))
+square = num * num
+temp = num
+while temp > 0:
+    if square % 10 != temp % 10:
+        print("Non AutoMorphic")
+        break
+    square //= 10
+    temp //= 10
+else:
+    print("AutoMorphic")
 
 '''24.Harshad number'''
 #
